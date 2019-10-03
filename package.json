@@ -4,8 +4,8 @@
   "description": "demo project for comp125",
   "main": "index.js",
   "scripts": {
-         "build": "babel Scripts -d dist"
-       },
+    "build": "babel Scripts -d dist"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MASHUD-CA/COMP125-S2018-Lesson6A.git"
